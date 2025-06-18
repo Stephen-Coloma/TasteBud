@@ -1,0 +1,375 @@
+[
+  {
+    "id": "REC001",
+    "name": "Classic Spaghetti Carbonara",
+    "ingredients": [
+      "200g spaghetti",
+      "100g guanciale (or pancetta)",
+      "2 large eggs",
+      "50g Pecorino Romano cheese, grated",
+      "Freshly ground black pepper",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil. Add spaghetti and cook according to package directions until al dente.",
+      "While pasta cooks, cut guanciale into small cubes. Cook in a large skillet over medium heat until crispy. Remove guanciale, leaving rendered fat in the pan.",
+      "In a bowl, whisk eggs with grated Pecorino Romano and a generous amount of black pepper until well combined.",
+      "Drain pasta, reserving about 1 cup of pasta water. Add hot pasta directly to the skillet with the guanciale fat.",
+      "Quickly pour the egg mixture over the pasta, tossing vigorously to coat. Add a splash of reserved pasta water as needed to create a creamy sauce (the heat of the pasta will cook the eggs without scrambling them).",
+      "Stir in the crispy guanciale. Serve immediately with extra Pecorino and black pepper."
+    ],
+    "cookingTime": "20",
+    "servings": 2,
+    "image": "/images/Classic Spaghetti Carbonara.jpg"
+  },
+  {
+    "id": "REC002",
+    "name": "Quick Chicken Stir-Fry",
+    "ingredients": [
+      "400g boneless, skinless chicken breast, sliced",
+      "1 tbsp soy sauce",
+      "1 tbsp rice vinegar",
+      "1 tsp sesame oil",
+      "1 tbsp cornstarch",
+      "2 tbsp vegetable oil",
+      "1 red bell pepper, sliced",
+      "1 head broccoli, cut into florets",
+      "2 carrots, thinly sliced",
+      "2 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "Cooked rice, for serving"
+    ],
+    "instructions": [
+      "In a bowl, marinate chicken slices with soy sauce, rice vinegar, sesame oil, and cornstarch for 10 minutes.",
+      "Heat 1 tbsp vegetable oil in a large skillet or wok over high heat. Add chicken and stir-fry until cooked through and lightly browned. Remove chicken and set aside.",
+      "Add remaining 1 tbsp vegetable oil to the wok. Add bell pepper, broccoli, and carrots. Stir-fry for 3-5 minutes until crisp-tender.",
+      "Add minced garlic and grated ginger. Stir-fry for 1 minute until fragrant.",
+      "Return chicken to the wok. Toss everything together to combine. Serve immediately over cooked rice."
+    ],
+    "cookingTime": "25",
+    "servings": 4,
+    "image": "/images/Quick Chicken Stir-Fry.jpg"
+  },
+  {
+    "id": "REC003",
+    "name": "Simple Tomato Basil Pasta",
+    "ingredients": [
+      "300g pasta (e.g., penne, fusilli)",
+      "1 can (400g) crushed tomatoes",
+      "2 cloves garlic, thinly sliced",
+      "1/4 cup fresh basil leaves, chopped",
+      "2 tbsp olive oil",
+      "Salt and black pepper to taste",
+      "Parmesan cheese, for serving (optional)"
+    ],
+    "instructions": [
+      "Cook pasta according to package directions in salted water until al dente. Drain, reserving about half a cup of pasta water.",
+      "While pasta cooks, heat olive oil in a large skillet over medium heat. Add sliced garlic and cook for 1-2 minutes until fragrant, being careful not to burn it.",
+      "Pour in the crushed tomatoes. Season with salt and pepper. Bring to a simmer and cook for 10-15 minutes, stirring occasionally, until the sauce thickens slightly.",
+      "Add the cooked pasta to the skillet with the tomato sauce. Toss to coat. If the sauce is too thick, add a little reserved pasta water until it reaches your desired consistency.",
+      "Stir in the fresh chopped basil. Serve hot, topped with Parmesan cheese if desired."
+    ],
+    "cookingTime": "20",
+    "servings": 3,
+    "image": "/images/Simple Tomato Basil Pasta.jpg"
+  },
+  {
+    "id": "REC004",
+    "name": "Creamy Mushroom Risotto",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 tbsp butter",
+      "1 small onion, finely chopped",
+      "250g Arborio rice",
+      "150ml dry white wine",
+      "750ml hot vegetable or chicken broth",
+      "200g mixed mushrooms, sliced",
+      "50g Parmesan cheese, grated",
+      "Fresh parsley, chopped (for garnish)",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Heat olive oil and butter in a large pan over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Add Arborio rice and stir for 1-2 minutes until translucent.",
+      "Pour in white wine and stir until completely absorbed.",
+      "Add hot broth one ladleful at a time, stirring constantly and waiting until each ladleful is absorbed before adding the next. This will take about 20-25 minutes.",
+      "In a separate small pan, quickly sauté the sliced mushrooms until tender. Add them to the risotto during the last 5 minutes of cooking.",
+      "Once rice is creamy and al dente, remove from heat. Stir in Parmesan cheese and season with salt and pepper.",
+      "Serve immediately, garnished with fresh parsley."
+    ],
+    "cookingTime": "35",
+    "servings": 4,
+    "image": "/images/Creamy Mushroom Risotto.jpg"
+  },
+  {
+    "id": "REC005",
+    "name": "Homemade Guacamole",
+    "ingredients": [
+      "3 ripe avocados",
+      "1/2 small red onion, finely diced",
+      "1-2 jalapeños, seeded and minced (optional)",
+      "1/4 cup fresh cilantro, chopped",
+      "2 tbsp lime juice",
+      "1/2 tsp salt",
+      "Pinch of cumin (optional)"
+    ],
+    "instructions": [
+      "Halve and pit the avocados. Scoop the flesh into a medium bowl.",
+      "Mash the avocados with a fork until desired consistency (chunky or smooth).",
+      "Stir in diced red onion, minced jalapeños (if using), chopped cilantro, lime juice, salt, and cumin (if using).",
+      "Taste and adjust seasoning as needed.",
+      "Serve immediately with tortilla chips or as a topping for tacos/burritos."
+    ],
+    "cookingTime": "10",
+    "servings": 4,
+    "image": "/images/Homemade Guacamole.jpg"
+  },
+  {
+    "id": "REC006",
+    "name": "Simple Garden Salad",
+    "ingredients": [
+      "1 head mixed greens",
+      "1 cucumber, sliced",
+      "1 bell pepper (any color), chopped",
+      "1 cup cherry tomatoes, halved",
+      "1/4 red onion, thinly sliced",
+      "Your favorite dressing (e.g., vinaigrette, ranch)"
+    ],
+    "instructions": [
+      "Wash and dry all vegetables thoroughly.",
+      "In a large salad bowl, combine mixed greens, cucumber, bell pepper, cherry tomatoes, and red onion.",
+      "Just before serving, drizzle with your favorite dressing and toss gently to coat.",
+      "Serve immediately as a side or add protein for a main meal."
+    ],
+    "cookingTime": "10",
+    "servings": 2,
+    "image": "/images/Simple Garden Salad.jpg"
+  },
+  {
+    "id": "REC007",
+    "name": "Classic Pancakes",
+    "ingredients": [
+      "1.5 cups all-purpose flour",
+      "3.5 tsp baking powder",
+      "1 tsp salt",
+      "1 tbsp white sugar",
+      "1.25 cups milk",
+      "1 large egg",
+      "3 tbsp melted butter (or vegetable oil)"
+    ],
+    "instructions": [
+      "In a large bowl, whisk together flour, baking powder, salt, and sugar.",
+      "In a separate bowl, whisk together milk, egg, and melted butter.",
+      "Pour the wet ingredients into the dry ingredients and stir until just combined. A few lumps are okay.",
+      "Heat a lightly oiled griddle or frying pan over medium heat.",
+      "Pour 1/4 cup of batter per pancake onto the hot griddle.",
+      "Cook for 2-3 minutes per side, or until golden brown and bubbles appear on the surface.",
+      "Serve hot with your favorite toppings like syrup, fruit, or whipped cream."
+    ],
+    "cookingTime": "20",
+    "servings": 4,
+    "image": "/images/Classic Pancakes.jpg"
+  },
+  {
+    "id": "REC008",
+    "name": "Oven-Roasted Salmon",
+    "ingredients": [
+      "2 salmon fillets (about 150-180g each)",
+      "1 tbsp olive oil",
+      "1/2 lemon, sliced",
+      "Fresh dill, chopped (optional)",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 200°C (400°F). Line a baking sheet with parchment paper.",
+      "Pat salmon fillets dry with paper towels. Place them on the prepared baking sheet.",
+      "Drizzle olive oil over the salmon. Season generously with salt and pepper.",
+      "Top each fillet with a few lemon slices and a sprinkle of fresh dill (if using).",
+      "Roast for 12-15 minutes, or until salmon flakes easily with a fork.",
+      "Serve hot with a side of vegetables or rice."
+    ],
+    "cookingTime": "20",
+    "servings": 2,
+    "image": "/images/Oven-Roasted Salmon.jpeg"
+  },
+  {
+    "id": "REC009",
+    "name": "Vegetable Curry",
+    "ingredients": [
+      "1 tbsp coconut oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "1 tbsp curry powder",
+      "1 can (400ml) coconut milk",
+      "1 can (400g) diced tomatoes",
+      "1 sweet potato, peeled and diced",
+      "1 cup cauliflower florets",
+      "1 cup green beans, trimmed",
+      "1/2 cup vegetable broth (if needed)",
+      "Fresh cilantro, chopped (for garnish)",
+      "Cooked rice or naan, for serving"
+    ],
+    "instructions": [
+      "Heat coconut oil in a large pot or Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Add garlic and ginger and cook for 1 minute until fragrant.",
+      "Stir in curry powder and cook for another minute.",
+      "Pour in coconut milk and diced tomatoes. Bring to a simmer.",
+      "Add sweet potato, cauliflower, and green beans. Stir well.",
+      "Cover and simmer for 20-25 minutes, or until vegetables are tender. Add a splash of vegetable broth if the curry becomes too thick.",
+      "Season with salt and pepper to taste. Serve hot over rice or with naan bread, garnished with fresh cilantro."
+    ],
+    "cookingTime": "40",
+    "servings": 4,
+    "image": "/images/Vegetable Curry.jpg"
+  },
+  {
+    "id": "REC010",
+    "name": "Berry Smoothie Bowl",
+    "ingredients": [
+      "1 cup frozen mixed berries",
+      "1 frozen banana, sliced",
+      "1/2 cup unsweetened almond milk (or other milk)",
+      "1 tbsp chia seeds (optional)",
+      "Toppings: fresh berries, granola, coconut flakes"
+    ],
+    "instructions": [
+      "Combine frozen berries, frozen banana, almond milk, and chia seeds (if using) in a high-speed blender.",
+      "Blend until smooth and creamy, adding more milk if needed to reach desired consistency.",
+      "Pour into a bowl and arrange your favorite toppings on top.",
+      "Serve immediately."
+    ],
+    "cookingTime": "5",
+    "servings": 1,
+    "image": "/images/Berry Smoothie Bowl.jpg"
+  },
+  {
+    "id": "REC011",
+    "name": "Beef Tacos",
+    "ingredients": [
+      "500g ground beef",
+      "1 packet taco seasoning",
+      "1/2 cup water",
+      "12 taco shells or tortillas",
+      "Toppings: shredded lettuce, diced tomatoes, shredded cheese, sour cream, salsa"
+    ],
+    "instructions": [
+      "Brown ground beef in a large skillet over medium-high heat. Drain excess fat.",
+      "Stir in taco seasoning and water. Bring to a simmer and cook for 5-7 minutes, stirring occasionally, until liquid has evaporated and beef is well coated.",
+      "Warm taco shells or tortillas according to package directions.",
+      "Assemble tacos by filling shells/tortillas with seasoned beef and your favorite toppings.",
+      "Serve hot."
+    ],
+    "cookingTime": "25",
+    "servings": 6,
+    "image": "/images/Beef Tacos.jpeg"
+  },
+  {
+    "id": "REC012",
+    "name": "Broccoli Cheddar Soup",
+    "ingredients": [
+      "2 tbsp butter",
+      "1 small onion, chopped",
+      "2 cloves garlic, minced",
+      "4 cups chicken or vegetable broth",
+      "4 cups broccoli florets",
+      "1 cup milk",
+      "2 cups shredded cheddar cheese",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Melt butter in a large pot over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Add garlic and cook for 1 minute until fragrant.",
+      "Pour in broth and add broccoli florets. Bring to a boil, then reduce heat and simmer for 10-15 minutes, or until broccoli is tender.",
+      "Using an immersion blender, blend the soup to your desired consistency (chunky or smooth). Alternatively, carefully transfer portions to a regular blender.",
+      "Stir in milk and shredded cheddar cheese until cheese is melted and soup is creamy.",
+      "Season with salt and pepper to taste. Serve hot."
+    ],
+    "cookingTime": "30",
+    "servings": 4,
+    "image": "/images/Broccoli Cheddar Soup.jpeg"
+  },
+  {
+    "id": "REC013",
+    "name": "Spinach and Feta Omelette",
+    "ingredients": [
+      "3 large eggs",
+      "1 tbsp milk (optional)",
+      "1 tsp olive oil or butter",
+      "1 cup fresh spinach",
+      "2 tbsp crumbled feta cheese",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a bowl, whisk eggs with milk (if using), salt, and pepper until well combined.",
+      "Heat olive oil or butter in a non-stick skillet over medium heat.",
+      "Add spinach and cook until wilted, about 1-2 minutes. Spread evenly in the pan.",
+      "Pour egg mixture over the spinach.",
+      "As the edges set, gently push the cooked egg towards the center, tilting the pan to allow uncooked egg to flow underneath.",
+      "When the omelette is mostly set but still slightly moist on top, sprinkle feta cheese over one half.",
+      "Fold the omelette in half and cook for another 30 seconds to 1 minute, or until cheese is slightly melted.",
+      "Serve immediately."
+    ],
+    "cookingTime": "10",
+    "servings": 1,
+    "image": "/images/Spinach and Feta Omelette.jpeg"
+  },
+  {
+    "id": "REC014",
+    "name": "Lentil Soup",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "2 cloves garlic, minced",
+      "1 cup brown or green lentils, rinsed",
+      "6 cups vegetable broth",
+      "1 can (400g) crushed tomatoes",
+      "1 tsp dried thyme",
+      "1 bay leaf",
+      "Salt and black pepper to taste",
+      "Fresh parsley, chopped (for garnish)"
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot or Dutch oven over medium heat. Add onion, carrots, and celery. Cook until softened, about 8-10 minutes.",
+      "Add garlic and cook for 1 minute until fragrant.",
+      "Stir in rinsed lentils, vegetable broth, crushed tomatoes, dried thyme, and bay leaf. Bring to a boil.",
+      "Reduce heat to low, cover, and simmer for 30-40 minutes, or until lentils are tender.",
+      "Remove bay leaf. Season with salt and pepper to taste.",
+      "Serve hot, garnished with fresh parsley."
+    ],
+    "cookingTime": "50",
+    "servings": 6,
+    "image": "/images/Lentil Soup.jpeg"
+  },
+  {
+    "id": "REC015",
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      "1 cup (226g) unsalted butter, softened",
+      "3/4 cup (150g) granulated sugar",
+      "3/4 cup (160g) packed light brown sugar",
+      "2 large eggs",
+      "1 tsp vanilla extract",
+      "2.25 cups (280g) all-purpose flour",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "1.5 cups (250g) chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 190°C (375°F). Line baking sheets with parchment paper.",
+      "In a large bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy.",
+      "Beat in eggs one at a time, then stir in vanilla extract.",
+      "In a separate medium bowl, whisk together flour, baking soda, and salt.",
+      "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+      "Stir in chocolate chips.",
+      "Drop rounded tablespoons of dough onto the prepared baking sheets.",
+      "Bake for 9-12 minutes, or until edges are golden brown and centers are still soft.",
+      "Let cool on baking sheets for a few minutes before transferring to a wire rack to cool completely."
+    ],
+    "cookingTime": "25",
+    "servings": 24,
+    "image": "/images/Chocolate Chip Cookies.jpg"
+  }
+]
